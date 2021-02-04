@@ -17,13 +17,15 @@ given this page that can return multiple http statusCodes
 - verify that upon navigation to a certain page the correct http statusCode is returned
 
 ### **Optional** Problem Three - REST API 
-
+<details>
+  <summary>Click to expand!</summary>
+	
 https://jsonplaceholder.typicode.com/users
 
 given this rest api that returns a proper json response
 - verify that user Nicholas Runolfsdottir V exists
 - verify that if this user exists, his address contains the following data
-```
+```json
 {
 	"address": {
 		"street": "Ellsworth Summit",
@@ -37,6 +39,7 @@ given this rest api that returns a proper json response
 	}
 }
 ```
+</details>
 
 # Frameworks
 
