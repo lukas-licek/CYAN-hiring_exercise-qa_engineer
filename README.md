@@ -45,7 +45,7 @@ given this rest api that returns a proper json response
 
 You should use the following frameworks to solve the problems
 - [JDK8](https://openjdk.java.net/projects/jdk8/)
-- [Cuccumber](https://cucumber.io/docs/installation/)
+- [Cucumber](https://cucumber.io/docs/installation/)
 - [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 - [Selenium Chromedriver](https://chromedriver.chromium.org/getting-started)
 - **Optional** [Maven](https://maven.apache.org/) 
